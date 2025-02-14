@@ -3,4 +3,15 @@ node_modules/
 package-lock.json
 
 
-src/
+src/auth/
+
+src/user/
+
+src/helpers
+
+gestion-productos/
+
+src/middlewares/appointment-validators.js
+src/middlewares/pet-validators.js
+src/middlewares/user-validators.js
+src/middlewares/validate-roles.js
